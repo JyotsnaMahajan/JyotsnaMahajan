@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JyotsnaMahajan 
-- 👀 I’m interested in C , C++ , Java , HTML , CSS , JS  
-- 🌱 I’m currently learning Android 
+- 👋 Hi, I’m @JyotsnaMahajan. 
+- 👀 I’m interested in C , Java ,Spring Boot , Spring MVC.   
+- 🌱 I’m currently in the IT Industry. 
 
 <!---
 JyotsnaMahajan/JyotsnaMahajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
